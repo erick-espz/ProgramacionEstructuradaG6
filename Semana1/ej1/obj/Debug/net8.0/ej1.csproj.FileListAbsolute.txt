@@ -1,0 +1,4 @@
+C:\Users\anton\OneDrive\Desktop\Semana1\ej1\obj\Debug\net8.0\ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Desktop\Semana1\ej1\obj\Debug\net8.0\ej1.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Desktop\Semana1\ej1\obj\Debug\net8.0\ej1.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Desktop\Semana1\ej1\obj\Debug\net8.0\ej1.csproj.CoreCompileInputs.cache
